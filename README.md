@@ -1,1 +1,3 @@
-# server-without-express
+# Goals
+
+1. built-in bodyParser
